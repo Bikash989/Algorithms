@@ -1,2 +1,2 @@
 # Algorithms
-This repository contains various Algorithms that i did in my spare time.
+This repository contains solution for algorithmic toolbox which i did a course on Coursera
