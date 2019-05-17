@@ -1,2 +1,2 @@
 # Algorithms
-This repository contains solution for algorithmic toolbox which i did a course on Coursera
+This repository contains solution for algorithmic toolbox  course Coursera
